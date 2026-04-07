@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aichi</h1>
+<h1 align="center">Hi, I'm Aichi</h1>
 
 
 ## About Me
@@ -72,9 +72,3 @@ I build projects in **Java, Python, TypeScript, C, and SQL**.
 I want to become a **full stack and backend engineer**.  
 I want to build real-world apps and work with teams.  
 
----
-
-## 📈 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aiccii&show_icons=true&locale=en&layout=compact" alt="aiccii" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aiccii&show_icons=true&locale=en" alt="aiccii" /></p>
