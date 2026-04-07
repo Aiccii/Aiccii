@@ -68,8 +68,8 @@ I want to build real-world apps and work with teams.
 
 ---
 
-## 📈 GitHub Stats
 
-![Aichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aiccii&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiccii&layout=compact&theme=tokyonight)
+## 📊 Contributions
+![Aichi's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Aiccii&theme=react-dark&area=true)
+## 📝 Most Used Languages
+![Aichi's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiccii&layout=pie&theme=tokyonight)
