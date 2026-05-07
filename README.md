@@ -18,7 +18,7 @@ I build projects in **Java, Python, TypeScript, and SQL**.
 
 ---
 
-  ## Tech Stack
+  ## My Tech Stack
 
   | Category | Technologies |
   |:---------|:-------------|
